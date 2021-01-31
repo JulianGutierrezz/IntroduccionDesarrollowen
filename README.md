@@ -2,6 +2,8 @@
 1. ## Introduccion
 
 Este proyecto lo estamos haciendo para desarrollo web idk aun no se como empezar
+
+
 2. ## Tema
 3. ## Planteamiento del problema
 4. ## Mockups
