@@ -8,7 +8,7 @@ Este proyecto lo estamos haciendo para desarrollo web idk aun no se como empezar
 
 Describir el tema y la idea principal de la aplicación.
 
-Esta pagina web esta creada con el fin de apoyar a las personas que sufran problemas de imsomnio, para que estas sean capaces de buscar informacion respecto a esta incluyendo a si mismo posibles soluciones o tratamientos
+Esta pagina web esta creada con el fin de apoyar a las personas que sufran problemas de imsomnio, para que estas sean capaces de encontrar informacion respecto a este incluyendo a si mismo posibles soluciones o tratamientos, todo ubicado en el mismo sitio web para una mayor facilidad
 
 
 3. ## Planteamiento del problema
