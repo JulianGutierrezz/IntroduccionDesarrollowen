@@ -24,7 +24,9 @@ El imsomnio o altas dificultades para dormir, es un trastorno que cada vez se en
 
 ![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/Mockup1.png)
 
-* aqui va la vista dos
+* ### Vista dos
+
+![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/Mockup2.png)
 
 * aqui va la vista tres
 
