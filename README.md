@@ -1,4 +1,4 @@
-# Nuestro proyecto sin nombre
+# Insomnio
 1. ## Introduccion
 
 Como estudiantes universitarios notamos en nuestros *colegas* que muchos de estos poseen altas dificultades para dormir. Despues de pensar en eso decidimos enfocar nuestro proyecto en el imsomnio al igual que sus causas y sus posibles tratamientos.
