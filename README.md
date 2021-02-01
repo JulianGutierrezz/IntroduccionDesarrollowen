@@ -13,7 +13,7 @@ Esta pagina web esta creada con el fin de apoyar a las personas que sufran probl
 
 El imsomnio o altas dificultades para dormir, es un trastorno que cada vez se encuentra mas y mas presente en las personas, el cual es dificil de tratar mayormente por el poco conocimiento respecto a este. Generado por diferentes causas esperamos que los usuarios sean capaces de encontrar la ayuda que nescesitan, aprendiendo sobre las consecuencias de este y encontrando sus posibles soluciones
 
-Arbol del problema:
+### Arbol del problema:
 
 
 ![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/rsz_bitdoge.png)
