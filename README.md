@@ -19,9 +19,15 @@ La razón por la que decidimos escoger este proyecto es por nuestros amigos y co
 
 5. ## Estado del arte
 
-La necesidad de dormir es muy importante por lo tanto trastornos como el insomnio son capaces de generar grandes consecuencias en las personas a largo plazo, de modo que las personas han creado aplicaciones o paginas con el fin de combatir este trastorno.
+La necesidad de dormir es vital para un desempeño óptimo de las tareas del día a día, por lo tanto, trastornos como el insomnio son capaces de generar grandes consecuencias en las personas a largo plazo, por consecuente se han creado aplicaciones o páginas con el fin de combatir este trastorno.
 
 ![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/Aplicaciones.png)
+
+Sleep Cycle alarm clock: Una asesora sobre como dormir mejor. Ayuda para dormir, alarma inteligente, análisis de ciclo de sueño a través de la detección de ronquidos.
+Ruido blanco: Librería de sonidos para la mejora del sueño. Mezcla de sonidos, temporizador, lista de favoritos.
+SleepTown: Aplicación de crecimiento personal. Metas, objetivos, Trabajo en equipo.
+
+El valor agregado de nuestra aplicación es el foro que les permitirá contar sus experiencias, crear publicaciones y compartir soluciones.
 
 ### Arbol del problema:
 
