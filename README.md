@@ -19,7 +19,9 @@ La razón por la que decidimos escoger este proyecto es por nuestros amigos y co
 
 5. ## Estado del arte
 
-La necesidad de dormir es muy importante por lo tanto trastornos como el insomnio son capaces de generar grandes consecuencias en las personas a largo plazo, de modo que las personas han creado aplicaciones o paginas con el fin de combatir este trastorno. 
+La necesidad de dormir es muy importante por lo tanto trastornos como el insomnio son capaces de generar grandes consecuencias en las personas a largo plazo, de modo que las personas han creado aplicaciones o paginas con el fin de combatir este trastorno.
+
+![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/Aplicaciones.png)
 
 ### Arbol del problema:
 
