@@ -34,7 +34,7 @@ El valor agregado de nuestra aplicación es el foro que les permitirá contar su
 
 ![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/Arbol%20del%20problema.png)
 
-4. ## Mockups
+9. ## Mockups
 
 * ### Vista uno
 
