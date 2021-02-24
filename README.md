@@ -27,7 +27,7 @@ Sleep Cycle alarm clock: Una asesora sobre como dormir mejor. Ayuda para dormir,
 Ruido blanco: Librería de sonidos para la mejora del sueño. Mezcla de sonidos, temporizador, lista de favoritos.
 SleepTown: Aplicación de crecimiento personal. Metas, objetivos, Trabajo en equipo.
 
-El valor agregado de nuestra aplicación es el foro que les permitirá contar sus experiencias, crear publicaciones y compartir soluciones.
+El valor agregado de nuestro sitio web es el foro que les permitirá contar sus experiencias, crear publicaciones y compartir soluciones.
 
 ### Arbol del problema:
 
