@@ -50,7 +50,7 @@ Estudiar la opinion de los usuarios con el fin de ir mejorando cada vez mas y ma
 
 8. ## Modelo de negocio
 
-![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/Lean_canvas_1.png)
+![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/Lean_canvas_1%20(1).png)
 
 9. ## Mockups
 
