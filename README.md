@@ -36,7 +36,17 @@ El valor agregado de nuestra aplicación es el foro que les permitirá contar su
 
 6. ## Objetivo general
 
+Crear un sitio web con el fin de facilitar informacion respecto a las causas y consecuencias de el insomnio atraves de videos, documentos y experiencias dictadas por otros usuarios.
+
+
 7. ## Objetivos especificos
+
+Mostrar todo tipo de articulo cientifico que presente sea causas o soluciones relacionadas al insomnio.
+
+Crear un foro en donde se acumulen testimonios o experiencias de diferentes usuarios.
+
+Estudiar la opinion de los usuarios con el fin de ir mejorando cada vez mas y mas la pagina.
+
 
 8. ## Modelo de negocio
 
