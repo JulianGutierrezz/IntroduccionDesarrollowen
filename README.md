@@ -67,3 +67,14 @@ Estudiar la opinion de los usuarios con el fin de ir mejorando cada vez mas y ma
 ![](https://github.com/JulianGutierrezz/IntroduccionDesarrollowen/blob/main/Imagenes/Mockup3.png)
 
 
+10. ## Descripcion
+
+La pagina web permitira al usuario publicar y comentar en diferentes publicaciones hechas por esto, tendra una seccion de causas y consecuencias y tendra otra seccion en donde los usuarios podran dejar comentarios y opiniones.
+Tendra publicos links de paypal o buymeacoffee para que los usuarios puedan hacer sus donaciones.
+
+11. ## Bibliografia
+
+https://innokabi.com/lienzo-lean-canvas-el-lienzo-de-los-emprendedores/
+
+https://play.google.com/store?hl=es_CO&gl=US
+
